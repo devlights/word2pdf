@@ -11,6 +11,6 @@ $ go install github.com/devlights/word2pdf@latest
 ## Usage
 
 ```sh
-$ word2pdf[.exe] word-file-path
+$ word2pdf.exe word-file-path
 ```
 
