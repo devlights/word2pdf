@@ -2,6 +2,8 @@
 
 Converts Word files to PDF.
 
+This library works only on Windows.
+
 ## Install
 
 ```sh
